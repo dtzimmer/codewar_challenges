@@ -1,7 +1,11 @@
 //Very simple, given a number, find its opposite.
 
-function opposite(number) {
+let opposite_num = {}
+
+opposite_num.number = function opposite(number) {
     return -number
 }
 
-opposite(-5)
+// opposite(-5)
+
+module.exports = opposite_num;
