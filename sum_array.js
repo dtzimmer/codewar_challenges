@@ -1,3 +1,5 @@
+//Use the reduce method to sum an array of numbers
+
 let array1 = [1, 2, 3, 4, 5]
 
 function sumArray(array){

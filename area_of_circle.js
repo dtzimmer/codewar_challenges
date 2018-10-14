@@ -7,7 +7,3 @@ function areaOfCircle(r) {
 let area = areaOfCircle(2)
 
 console.log(area)
-
-
-
-// (Math.PI * Math.pow(r, 2)).toFixed(2)
