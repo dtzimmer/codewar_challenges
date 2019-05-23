@@ -1,3 +1,5 @@
+//Given an array of mixed strings and numbers, add the total together of the array
+
 function sumMix(x) {
   let total = 0;
   x.map(num => {
